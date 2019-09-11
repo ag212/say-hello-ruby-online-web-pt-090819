@@ -1,1 +1,2 @@
-say_hello
+def greeting (name, language="Ruby")
+  puts "Hello, #{name}"
