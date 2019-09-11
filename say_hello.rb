@@ -1,2 +1,3 @@
 def greeting (name, language="Ruby")
-  puts "Hello, #{name}"
+  puts "Hello, #{name} #{language} programmer."
+end
