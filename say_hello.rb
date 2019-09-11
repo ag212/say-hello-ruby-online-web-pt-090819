@@ -1,4 +1,4 @@
-def say_hello(name)
+def say_hello (name)
 end
 
 def greeting (name, language="Ruby")
